@@ -1,6 +1,6 @@
 # Personal Portfolio Website in React
 
-<img width="1266" alt="Screen Shot 2023-06-19 at 2 18 18 PM" src="https://github.com/pratham-7/Portfolio-Website/blob/main/ReadME-img.png">
+<img width="1266" alt="Screen Shot 2023-06-19 at 2 18 18 PM" src="https://github.com/sparsh2204/Portfolio_Sparsh/blob/main/ReadME-img.png">
 
 Built using:
 
